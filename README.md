@@ -17,6 +17,8 @@ A simple ReactJS Project for managing your contacts. User can Add, Edit and Dele
 - *Contacts.jsx* : This component acts as the Landing page of the application and is responsible for displaying the saved contacts.
 - *AddContacts.jsx* : This component consists of a form that takes in the contact information to be added. Has basic form validation in place. 
 - *ViewContacts.jsx* : User is redirected here when they click on a particular contact in  *Contacts.jsx*. Consists of the respective contact information with an option to Edit and Delete the contact.
+- *contactManagement.js* : This file contains all the necessary functions to fetch, add, edit and delete the contact details data from the `localStorage`
+
 ## Deployment
 Follow the below steps to deploy this project
 
